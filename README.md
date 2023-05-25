@@ -35,5 +35,5 @@
 <p>The labels are converted from categorical strings to numerical values using the index of the labels in the labels list. The numerical labels are further converted to one-hot encoded vectors using to_categorical() from tf.keras.utils.</p>
 <p> The model is compiled with the categorical cross-entropy loss function, Adam optimizer, and accuracy as the evaluation metric. The model is then trained using the training data for a specified number of epochs, with a validation split of 0.1. After training, the model is saved to a file named model.h5.</p>
 <h2>Video Explanation</h2>
-<p>For an explanation video of this project on youtube, <a href = "">Click Here</a>.</p>
+<p>For an explanation video of this project on youtube, <a href = "https://youtu.be/dQw4w9WgXcQ">Click Here</a>.</p>
 <hr>
