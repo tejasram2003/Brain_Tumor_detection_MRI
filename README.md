@@ -1,8 +1,8 @@
-<h1>Project Name</h1>
-<p>A brief introduction to the project, including its purpose, goals, and any important context or background information.</p>
+<h1>Brain Tumor Detection</h1>
+<p>A machine learning project that can be used to detect if a person has brain tumor or not using the MRI scan images of the brain.</p>
 <h2>Table of Contents</h2>
 <ul>
-  <li><a href="#installation">Installation</a></li>
+  <li><a href="installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#data">Data</a></li>
   <li><a href="#model">Model</a></li>
